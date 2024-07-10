@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thank YOU
 
-Template Name: Bell
-Template URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Name: EYETFU
+URL:
+Author: LOWKEY
