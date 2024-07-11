@@ -1,5 +1,1 @@
-Thank YOU
-
-Name: EYETFU
-URL:
-Author: LOWKEY
+ESO PROJECT 1
